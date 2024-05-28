@@ -1,0 +1,70 @@
+.profile {
+    flex-basis: 75%;
+}
+
+.mid-head {
+    height: 70px;
+    flex-shrink: 0;
+    display: flex;
+    border: 0px solid #F5F5F5;
+    background: #F5F5F5;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.profile-section {
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+form .info {
+display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.buttons {
+    display: flex;
+}
+
+.button1 {
+    width: 150px;
+    height: 40px;
+    display: flex;
+    margin: 10px 15px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    border: 1px solid #dfd7ca;
+    background: #4F8CBF;
+}
+
+.button2 {
+    width: 150px;
+    height: 40px;
+    display: flex;
+    margin: 10px 15px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    border: 1px solid #dfd7ca;
+    background: rgb(173, 60, 60);
+}
+
+.btns {
+    text-transform: uppercase;
+    padding: 10px;
+    font-weight: 500;
+    color: #Ffffff;
+    background: transparent;
+    border: none;
+}
+.sidebar{
+    height: auto;
+}
+select {
+
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 4px;
+
+}

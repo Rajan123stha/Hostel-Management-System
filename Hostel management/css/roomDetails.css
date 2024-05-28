@@ -1,0 +1,12 @@
+.sidebar{
+    height: 100vh;
+}
+.table{
+    margin: 30px 60px;
+
+}
+ th, td{
+    border: 1px solid black;
+    font-size: 20px;
+    padding: 10px;
+}
